@@ -43,7 +43,7 @@ p{font-family:宋体;font-size:9pt}
            <table border="0" width="99%" id="table4424" cellspacing="0"> 
             <tbody>
              <tr> 
-              <td bgcolor="#FFFF00" style="font-size: 10pt; color: #000000"> <p align="center"><b><font face="华文中宋" size="6"> 看料记好本站永久域名:<font color="#FF0000">www.987768.com</font> 请大家相互告知！</font></b></p></td>  
+              <td bgcolor="#FFFF00" style="font-size: 10pt; color: #000000"> <p align="center"><b><font face="华文中宋" size="6"> 看料记好本站永久域名:<font color="#FF0000">www.978768.com</font> 请大家相互告知！</font></b></p></td>  
              </tr> 
             </tbody>
            </table> 
